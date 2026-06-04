@@ -283,7 +283,7 @@ dependencies:
           allowed_scopes:
             - "*"
 
-    - module: github.com/google/uuid
+  - module: github.com/google/uuid
       versions:
         - version: ">=v1.6.0"
           allowed_scopes:
